@@ -30,6 +30,5 @@ while(num !=-99)
 in.close();
 out.close();
 
-return 0;
-	
+return 0;	
 }
