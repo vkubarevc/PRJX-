@@ -9,9 +9,9 @@ int main ()
 	in >> num; 
 	
 	ifstream in;
-	in.open("output.dat");
+	in.open("---");
 	ofstream out;
-	out.open("output.dat");
+	out.open("---");
 	
 while(num !=-99)
 
