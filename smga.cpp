@@ -3,6 +3,7 @@
 using namespace std;
 
 int main ()
+	
 {
 	double num, sum=0;
 	int counter=0;
@@ -30,4 +31,5 @@ in.close();
 out.close();
 
 return 0;
+	
 }
